@@ -1,15 +1,18 @@
-### Heyy! I am Aashrit.
+# Heyy! I am Aashrit.
 
 <!--
 **Aashrit-Garg/Aashrit-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on sharpening my skills.
-- 🌱 I’m currently learning AI & ML using Python.
-- 👯 I’m looking to collaborate on any Flutter or Web App.
-- 🤔 I’m looking for help with scalability for my Apps.
-- 💬 Ask me about Flutter, Web and iOS Development
-- 📫 How to reach me: Email: aashritgarg@gmail.com  Insta: aashritgarg
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I listen to music all day ;)
+- 🔭 __I’m currently working on sharpening my skills.__
+- 🌱 __I’m currently learning AI & ML using Python.__
+- 👯 __I’m looking to collaborate on any Flutter or Web App.__
+- 🤔 __I’m looking for help in making Apps more scalable.__
+- 💬 __Ask me about Flutter, Web and iOS Development__
+- 📫 __How to reach me: Email - aashritgarg@gmail.com     Instagram - [aashritgarg](https://www.instagram.com/aashritgarg/)__
+- 😄 __Pronouns: He/His__
+- ⚡ __Fun fact: I listen to music all day ;)__
 
+![enter image description here](https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&&show_icons=true&title_color=ffffff&icon_color=64ffda&text_color=ffffff&bg_color=073b56)
+
+- __I know I need to start working on my stats 😅__
