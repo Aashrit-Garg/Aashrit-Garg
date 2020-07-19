@@ -1,6 +1,8 @@
-### Hi there 👋
+### Heyy! I am Aashrit.
 
+<!--
 **Aashrit-Garg/Aashrit-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on sharpening my skills.
 - 🌱 I’m currently learning AI & ML using Python.
