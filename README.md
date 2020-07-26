@@ -1,4 +1,4 @@
-# Heyy! I am Aashrit.
+# Hey! I am Aashrit.
 
 <!--
 **Aashrit-Garg/Aashrit-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
