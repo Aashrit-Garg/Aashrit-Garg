@@ -14,5 +14,3 @@
 - ⚡ __Fun fact: I listen to music all day ;)__
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&&show_icons=true&title_color=08D2E3&icon_color=08D2E3&text_color=ffffff&bg_color=000000)
-
-- __I know I need to start working on my stats 😅__
