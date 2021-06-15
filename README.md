@@ -21,5 +21,5 @@
 
 <h4 align="left"><strong>Contact Me</strong></h4>
 <p align="center">
-<a href="https://wa.me/919602492022"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://www.linkedin.com/in/aashrit/"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> <a href="https://www.instagram.com/aashritgarg/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> <a href="aashritgarg@gmail.com"><img alt="TF" src="https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white"/><a>
+<a href="https://wa.me/919602492022"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://www.linkedin.com/in/aashrit/"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> <a href="https://www.instagram.com/aashritgarg/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a>
 </p>
