@@ -13,7 +13,7 @@
 - 😄 __Pronouns: He/His__
 - ⚡ __Fun fact: I listen to music all day ;)__
 
-<h4><strong>Data Engineering</strong></h4>
+<h4><strong>Data Science</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
 
