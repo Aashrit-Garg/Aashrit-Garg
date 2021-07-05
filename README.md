@@ -9,7 +9,7 @@
 - 👯 __I’m looking to collaborate on any Flutter or Web App.__
 - 🤔 __I’m looking for help in making Apps more scalable.__
 - 💬 __Ask me about Flutter, Web and iOS Development__
-- 📫 __How to reach me: Email - aashritgarg@gmail.com
+- 📫 __How to reach me: Email - aashritgarg@gmail.com__
 - 😄 __Pronouns: He/His__
 - ⚡ __Fun fact: I listen to music all day ;)__
 
