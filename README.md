@@ -4,6 +4,8 @@
 **Aashrit-Garg/Aashrit-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🔭 __I’m currently working on sharpening my skills.__
 - 🌱 __I’m currently learning AI & ML using Python.__
 - 💬 __Ask me about Flutter, Android and iOS Development__
