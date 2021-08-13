@@ -17,17 +17,18 @@
 
 <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&&show_icons=true&title_color=08D2E3&icon_color=08D2E3&text_color=ffffff&bg_color=000000)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&show_icons=true&theme=tokyonight&line_height=27" alt="Aashrit's Github Stats" />
 
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashrit-Garg&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashrit-Garg&theme=react"/>
   </a>
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=city-lights" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=react-dark" width="100%"/>
   </a>
 </p>
 
