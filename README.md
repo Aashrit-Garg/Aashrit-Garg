@@ -16,7 +16,21 @@
 
 <hr>
 <Br>
+<h1 align="center">Github Streaks!</h1>
+<br>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashrit-Garg&theme=react"/>
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=react-dark" width="100%"/>
+  </a>
+</p>
+
+<hr>
+<br>
 <h1>Some of my Projects!</h1>
     
 <p align="left">
@@ -36,22 +50,7 @@
 <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
 
 <hr>
-<h1 align="center">Github Streaks!</h1>
 <br>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashrit-Garg&theme=react"/>
-  </a>
-</p>
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=react-dark" width="100%"/>
-  </a>
-</p>
-
-<br>
-
-<hr>
 <h1 align="center">Github Stats!</h1>
 <br>
 <p align="center">
