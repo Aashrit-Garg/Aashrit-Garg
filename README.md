@@ -6,19 +6,13 @@
 
 - 🔭 __I’m currently working on sharpening my skills.__
 - 🌱 __I’m currently learning AI & ML using Python.__
-- 👯 __I’m looking to collaborate on any Flutter or Web App.__
-- 🤔 __I’m looking for help in making Apps more scalable.__
-- 💬 __Ask me about Flutter, Web and iOS Development__
+- 💬 __Ask me about Flutter, Android and iOS Development__
 - 📫 __How to reach me: Email - aashritgarg@gmail.com__
-- 😄 __Pronouns: He/His__
 - ⚡ __Fun fact: I listen to music all day ;)__
 
 <h4><strong>Data Science</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&show_icons=true&theme=tokyonight&line_height=27" alt="Aashrit's Github Stats" />
 
 <br>
 
@@ -33,6 +27,9 @@
 </p>
 
 <br>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&show_icons=true&theme=react&line_height=27" alt="Aashrit's Github Stats" />
 
 <h4 align="left"><strong>Contact Me</strong></h4>
 <p align="center">
