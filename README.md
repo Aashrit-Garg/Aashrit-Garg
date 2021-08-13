@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=redical&bg_color=0B0826" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=city-lights" width="100%"/>
   </a>
 </p>
 
