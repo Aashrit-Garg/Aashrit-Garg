@@ -1,8 +1,6 @@
-# Hey! I am Aashrit.
-
-<!--
-**Aashrit-Garg/Aashrit-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<hr>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -11,6 +9,9 @@
 - 💬 __Ask me about Flutter, Android and iOS Development__
 - 📫 __How to reach me: Email - aashritgarg@gmail.com__
 - ⚡ __Fun fact: I listen to music all day ;)__
+
+<hr>
+<Br>
 
 <h4><strong>Data Science</strong></h4>
 
@@ -31,7 +32,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrit-Garg&langs_count=4&theme=reach&layout=compact" alt="Aashrit Garg :: Top Langs" /></p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&show_icons=true&theme=react&line_height=27" alt="Aashrit's Github Stats" />
