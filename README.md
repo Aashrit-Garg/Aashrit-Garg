@@ -31,6 +31,9 @@
 <br>
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&show_icons=true&theme=react&line_height=27" alt="Aashrit's Github Stats" />
 
 <h4 align="left"><strong>Contact Me</strong></h4>
