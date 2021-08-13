@@ -19,7 +19,21 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&&show_icons=true&title_color=08D2E3&icon_color=08D2E3&text_color=ffffff&bg_color=000000)
 
+<br>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashrit-Garg&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=redical&bg_color=0B0826" width="100%"/>
+  </a>
+</p>
+
+<br>
+
 <h4 align="left"><strong>Contact Me</strong></h4>
-<p>
+<p align="center">
 <a href="https://wa.me/919602492022"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a> <a href="https://www.linkedin.com/in/aashrit/"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> <a href="https://www.instagram.com/aashritgarg/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a>
 </p>
