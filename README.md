@@ -34,13 +34,13 @@
 <h1 align="center">Some of my Projects!</h1>
 <br>
 <p align="center">
-  <a href="https://github.com/Aashrit-Garg/Questions"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=Questions&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/Aashrit-Garg/Traffic"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=Traffic&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/Aashrit-Garg/Minesweeper"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=Minesweeper&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Aashrit-Garg/Questions"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=Questions&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Aashrit-Garg/Traffic"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=Traffic&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Aashrit-Garg/Minesweeper"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=Minesweeper&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
   <br>
-  <a href="https://github.com/Aashrit-Garg/PageRank"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=PageRank&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/Aashrit-Garg/CarpetStory-Android"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=CarpetStory-Android&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/Aashrit-Garg/TicTacToe"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=TicTacToe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Aashrit-Garg/PageRank"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=PageRank&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Aashrit-Garg/CarpetStory-Android"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=CarpetStory-Android&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Aashrit-Garg/TicTacToe"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aashrit-Garg&repo=TicTacToe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 
 <hr>
 <br>
