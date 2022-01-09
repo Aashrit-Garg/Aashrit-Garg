@@ -55,7 +55,7 @@
 <h1 align="center">Github Stats!</h1>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrit-Garg&langs_count=5&theme=react&bg_color=00000000" alt="Aashrit Garg :: Top Langs" width="100%"/></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrit-Garg&langs_count=2&theme=react&bg_color=00000000" alt="Aashrit Garg :: Top Langs" width="100%"/></p>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aashrit-Garg&show_icons=true&theme=react&line_height=27&hide=issues&bg_color=00000000" alt="Aashrit's Github Stats" width="100%"/>
