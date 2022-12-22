@@ -24,10 +24,10 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Aashrit-Garg&theme=react-dark" width="100%"/>
   </a>
-</p>
+</p> -->
 
 <hr>
 <br>
