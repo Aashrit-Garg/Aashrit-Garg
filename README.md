@@ -54,7 +54,13 @@
     
 <h4><strong>Data Science</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<hr>
+    
+<h4><strong>Languages</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img alt="TF" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="TF" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <hr>
 <br>
