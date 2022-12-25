@@ -46,6 +46,12 @@
 <br>
 <h1 align="center">My Stack!</h1>
 <br>
+<h4><strong>Artificial Intelligence</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
+
+<hr>
+    
 <h4><strong>Data Science</strong></h4>
 
 <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
