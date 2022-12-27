@@ -16,7 +16,7 @@
 
 <hr>
 <h1>To know more...</h1>
-[My Resume](https://github.com/Aashrit-Garg/Aashrit-Garg/files/10309992/Aashrit_Garg_Resume.pdf)
+[Resume](https://github.com/Aashrit-Garg/Aashrit-Garg/files/10309992/Aashrit_Garg_Resume.pdf)
 <hr>
 
 <hr>
