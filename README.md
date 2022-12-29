@@ -15,11 +15,6 @@
 - ⚡ __Fun fact: I listen to music all day :)__
 
 <hr>
-<h1>To know more...</h1>
-[Aashrit_Garg_Resume.pdf](https://github.com/Aashrit-Garg/Aashrit-Garg/files/10309998/Aashrit_Garg_Resume.pdf)
-<hr>
-
-<hr>
 <br>
 <h1 align="center">Github Streaks!</h1>
 <br>
