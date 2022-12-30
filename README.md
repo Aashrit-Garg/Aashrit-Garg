@@ -9,9 +9,9 @@
 
 - 🏫 __I'm a Computer Science Student and Researcher.__
 - 🔭 __I’m currently working on sharpening my skills in MLOps.__
-- 🌱 __I’m currently learning Computer Vision.__
+- 🌱 __I’m currently learning Computer Vision and NLP.__
 - 🤔 __I’m looking for help with anything I am currently learning!__
-- 💬 __Ask me about Flutter, Android and iOS Development.__
+- 💬 __Ask me about Flutter, Android, iOS Development.__
 - ⚡ __Fun fact: I listen to music all day :)__
 
 <hr>
