@@ -11,7 +11,7 @@
 - 🔭 __I’m currently working on sharpening my skills in MLOps.__
 - 🌱 __I’m currently learning Computer Vision and NLP.__
 - 🤔 __I’m looking for help with anything I am currently learning!__
-- 💬 __Ask me about iOS, Flutter & Android Development.__
+- 💬 __Ask me about iOS, Android & Flutter Development.__
 - ⚡ __Fun fact: I listen to music all day :)__
 
 <hr>
